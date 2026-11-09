@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\NameLibrary\NameLibrary\bin\Debug\net10.0\NameLibrary.deps.json
+C:\Users\user\source\repos\NameLibrary\NameLibrary\bin\Debug\net10.0\NameLibrary.dll
+C:\Users\user\source\repos\NameLibrary\NameLibrary\bin\Debug\net10.0\NameLibrary.pdb
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.dll
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\refint\NameLibrary.dll
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibrary.pdb
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\ref\NameLibrary.dll
+C:\Users\user\source\repos\NameLibrary\NameLibrary\obj\Debug\net10.0\NameLibr.D6028CC6.Up2Date
